@@ -1,0 +1,12 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    [
+      { "item": "mymod:whitejade_block" }
+    ]
+  ],
+  "result": {
+    "item": "mymod:white_jade",
+    "count": 9
+  }
+}

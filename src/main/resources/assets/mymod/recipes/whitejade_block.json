@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "ZZZ",
+        "ZZZ",
+        "ZZZ"
+    ],
+    
+    "key":
+    {
+        
+        "Z":
+        {
+            "item": "mymod:white_jade"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mymod:whitejade_block",
+        "count": 1
+    }
+}

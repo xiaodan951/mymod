@@ -1,0 +1,18 @@
+#items
+item.whitejade_shovel.name=Whitejade Shovel
+item.white_jade.name=White Jade
+
+#tools
+item.whitejade_sword.name=Whitejade Sword
+item.whitejade_pickaxe.name=Whitejade Pickaxe
+item.whitejade_hoe.name=Whitejade Hoe
+item.whitejade_axe.name=Whitejade Axe
+item.whitejade_shove.name=Whitejade Shove
+
+#blocks
+tile.whitejade_block.name=Whitejade Block
+tile.whitejade_ore.name=Whitejade Ore
+
+#tabs
+itemGroup.mymodblock_tab=MymodBlock Tab
+itemGroup.mymoditem_tab=MymodItem Tab

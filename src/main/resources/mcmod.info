@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mymod",
+  "name": "MyMod",
+  "description": "This is a mod made by xiaodan.\n\n\n\nUpdate:\n1 added a mineral.\n\n2 added tools.\n\n3 complete the language.\n\n4 support English and Chinese.\n\n\n\nURL password:37kv\nUpdate URL password:4d54.",
+  "version": "2.0",
+  "mcversion": "1.12.2",
+  "url": "https://wwo.lanzoui.com/b02ikhu1e",
+  "updateUrl": "https://wwo.lanzoui.com/b02ikhv1a",
+  "authorList": ["xiaodan"],
+  "credits": "This is a mod made by xiaodan,",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
